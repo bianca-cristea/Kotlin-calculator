@@ -9,7 +9,7 @@
     android:layout_margin="20dp"
     tools:context=".MainActivity">
 
-   <EditText
+    <EditText
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:id="@+id/et_a"
